@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(132, 211, 241);
+}
+
+.header .ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  width: 30%;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+}
